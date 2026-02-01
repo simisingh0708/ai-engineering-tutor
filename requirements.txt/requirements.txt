@@ -1,9 +1,6 @@
 streamlit
 openai
-anthropic
 tiktoken
 tinydb
 pypdf
 sentence-transformers
-faiss-cpu
-streamlit-mic-recorder
